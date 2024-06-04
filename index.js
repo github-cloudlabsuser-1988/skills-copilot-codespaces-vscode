@@ -35,4 +35,4 @@ const data = [
 // Map through an array of arrays of objects
   // Example: Extract names from the data array
   // Desired outcome: ['John', 'Jane', 'Bob']
-const names = data.map((person) => person.name);
+const names = data.map((person) => person.name);c
